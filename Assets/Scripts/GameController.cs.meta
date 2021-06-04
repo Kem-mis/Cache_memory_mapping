@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: c053af69addd22d49a47fabcaac41d7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MAPlatformPrefab: {instanceID: 0}
+  - MMPlatformPrefab: {instanceID: 0}
+  - CPlatformPrefab: {instanceID: 0}
+  - Text_MA_bit_Prefab: {instanceID: 0}
+  - Text_MM_wordPrefix_Prefab: {instanceID: 0}
+  - Text_MM_ellipsisDot_Prefab: {instanceID: 0}
+  - Text_C_ellipsisDot_Prefab: {instanceID: 0}
+  - Text_MM_brace_Prefab: {instanceID: 0}
+  - Text_C_brace_Prefab: {instanceID: 0}
+  - Text_MM_blockPrefix_Prefab: {instanceID: 0}
+  - Text_C_linePrefix_Prefab: {instanceID: 0}
+  - Text_MA_wordDelimiter_Prefab: {instanceID: 0}
+  - Text_MA_block_Prefab: {instanceID: 0}
+  - Text_MA_word_Prefab: {instanceID: 0}
+  - C_tag_Prefab: {instanceID: 0}
+  - Text_C_tag_Prefab: {instanceID: 0}
+  - MA_lineDelimiter_Prefab: {instanceID: 0}
+  - Text_MA_line_Prefab: {instanceID: 0}
+  - Text_MA_tag1_Prefab: {fileID: 2981645399620237135, guid: db9dfeed100cc1a4791eb496d46d44da,
+      type: 3}
+  - MM_blockPlatform_origin_Prefab: {instanceID: 0}
+  - Text_MM_smallEllipsisDot_Prefab: {instanceID: 0}
+  - Text_C_smallEllipsisDot_Prefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
